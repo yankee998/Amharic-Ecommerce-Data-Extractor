@@ -10,3 +10,4 @@ output/
 *.xlsx
 .DS_Store
 *.session
+.env
